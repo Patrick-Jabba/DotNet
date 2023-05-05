@@ -1,2 +1,2 @@
 # ASP.Net
-Repo para práticas de implementação de API utilizando ASP.Net com C#
+Repo para práticas de implementação de API utilizando .Net com C#
